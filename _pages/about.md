@@ -23,10 +23,10 @@ My research focuses on the design and evaluation of AI-enabled information syste
 <span class="anchor" id="recent-highlights"></span>
 # ✨ Recent Highlights
 - *2026.11*: &nbsp; One (1) of our works to appear in the **89th ASIS&T Annual Meeting** in Bangkok, Thailand.
-- *2026.10*: &nbsp; One (1) of our works to appear in **ACM/IEEE JCDL 2026** in Texas, USA.
-- *2026.08*: &nbsp; Two (2) of our works to appear in **IFLA WLIC 2026** in Busan, South Korea; one (1) in a panel session and one (1) in an open session.
-- *2026.03*: &nbsp; Two (2) of our works to appear in **iConference 2026** in Edinburgh, Scotland.
-- *2025.12*: &nbsp; Two (2) of our works appeared in **ICADL 2025** in Manila, Philippines; one (1) received the **Best Full Paper Award**.
+- *2026.10*: &nbsp; One (1) of our works to appear in **26th ACM/IEEE JCDL** in Texas, USA.
+- *2026.08*: &nbsp; Two (2) of our works to appear in **90th IFLA WLIC** in Busan, South Korea; one (1) in a panel session and one (1) in an open session.
+- *2026.03*: &nbsp; Two (2) of our works to appear in **21st iConference** in Edinburgh, Scotland.
+- *2025.12*: &nbsp; Two (2) of our works appeared in **27th ICADL** in Manila, Philippines; one (1) received the **Best Full Paper Award**.
 
 <span class="anchor" id="publications"></span>
 # 📝 Publications <small>(Selected)</small>

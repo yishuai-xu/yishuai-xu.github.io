@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yi-Shuai Xu"
-description              : "Personal academic homepage of Yi-Shuai Xu "
+description              : # "Personal academic homepage of Yi-Shuai Xu "
 repository               : "yishuai-xu/yishuai-xu.github.io"
 google_scholar_stats_use_cdn : true
 

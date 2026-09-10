@@ -20,6 +20,7 @@ redirect_from:
 My research focuses on the design and evaluation of AI-enabled information systems for organizing, retrieving, and discovering knowledge. I work at the intersection of natural language processing, information retrieval, recommender systems, and large language models, with particular interests in automatic classification, semantic discovery, personalized information access, and human–AI collaboration. I also conduct computational research on scholarly communication and knowledge structures within the broader field of the Science of Science.
 
 
+<span class="anchor" id="recent-highlights"></span>
 # ✨ Recent Highlights
 - *2026.11*: &nbsp; One (1) of our works to appear in the **89th ASIS&T Annual Meeting** in Bangkok, Thailand.
 - *2026.10*: &nbsp; One (1) of our works to appear in **ACM/IEEE JCDL 2026** in Texas, USA.
@@ -27,7 +28,8 @@ My research focuses on the design and evaluation of AI-enabled information syste
 - *2026.03*: &nbsp; Two (2) of our works to appear in **iConference 2026** in Edinburgh, Scotland.
 - *2025.12*: &nbsp; Two (2) of our works appeared in **ICADL 2025** in Manila, Philippines; one (1) received the **Best Full Paper Award**.
 
-# 📝 Publications <small>(Selected)</small> 
+<span class="anchor" id="publications"></span>
+# 📝 Publications <small>(Selected)</small>
 
 ## Refereed Journal Articles
 
@@ -101,16 +103,19 @@ My research focuses on the design and evaluation of AI-enabled information syste
 
 - Wang, G., Abdullah, N., Mohd Khalid, Y. I. A., Xu, Y.-S., & Yuan, Y. (2026). Bridging the data divide: Data visualization competencies in academic libraries for equitable access.
 
+<span class="anchor" id="honors"></span>
 # 🎖 Honors and Awards
 
 - *2025.12*: &nbsp; **Best Full Paper Award**, ICADL 2025, Manila, Philippines.
 
+<span class="anchor" id="education"></span>
 # 📖 Education
 
-- **Ph.D.**, Universiti Malaya, Malaysia
-- **Master's Degree**, Universiti Malaya, Malaysia
-- **Bachelor's Degree**, National University of Malaysia (UKM), Malaysia
+- **Ph.D.**, University of Malaya, Malaysia
+- **Master's Degree**, University of Malaya, Malaysia
+- **Bachelor's Degree**, National University of Malaysia, Malaysia
 
+<span class="anchor" id="teaching"></span>
 # 👨‍🏫 Teaching
 
 - *2025–2026*: &nbsp; **Data Preservation and Metadata**, Universiti Malaya (UM).
@@ -121,6 +126,7 @@ My research focuses on the design and evaluation of AI-enabled information syste
 - *2025*: &nbsp; Invited class on **Bibliometrics and Scientific Publishing**, Universiti Malaya (UM).
 - *2025*: &nbsp; Invited class on **Human-Centered AI Design: Principles, Real-World Cases, and Challenges**, Universiti Malaya (UM).
 
+<span class="anchor" id="academic-service"></span>
 # 🧭 Academic Service
 
 ## Reviewer

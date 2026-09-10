@@ -29,7 +29,7 @@ My research focuses on the design and evaluation of AI-enabled information syste
 - *2025.12*: &nbsp; Two (2) of our works appeared in **27th ICADL** in Manila, Philippines; one (1) received the **Best Full Paper Award**.
 
 <span class="anchor" id="publications"></span>
-# 📝 Publications <small>(Selected)</small>
+<h1>📝 Publications <span style="font-size: 0.65em; font-weight: normal;">(Selected)</span></h1>
 
 ## Refereed Journal Articles
 

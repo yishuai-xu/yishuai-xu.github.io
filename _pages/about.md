@@ -160,3 +160,7 @@ My research focuses on the design and evaluation of AI-enabled information syste
 - Association for Information Science and Technology (ASIS&T)
 - Association for Library and Information Science Education (ALISE)
 - American Psychological Association (APA)
+
+# 💬 Languages
+
+English · Malay · Mandarin

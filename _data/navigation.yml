@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "Recent Highlights"
-    url: "/#-recent-highlights"
+    url: "/#recent-highlights"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Honors"
-    url: "/#-honors-and-awards"
+    url: "/#honors"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/#education"
 
   - title: "Teaching"
-    url: "/#-teaching"
+    url: "/#teaching"
 
   - title: "Academic Service"
-    url: "/#-academic-service"
+    url: "/#academic-service"

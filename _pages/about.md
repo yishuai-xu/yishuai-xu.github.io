@@ -22,6 +22,7 @@ My research focuses on the design and evaluation of AI-enabled information syste
 
 <span class="anchor" id="recent-highlights"></span>
 # ✨ Recent Highlights
+- *2026.12*: &nbsp; Two (2) of our works to appear in the **19th ICIDS** in Bangkok, Thailand.
 - *2026.11*: &nbsp; One (1) of our works to appear in the **89th ASIS&T Annual Meeting** in Bangkok, Thailand.
 - *2026.10*: &nbsp; One (1) of our works to appear in **26th ACM/IEEE JCDL** in Texas, USA.
 - *2026.08*: &nbsp; Two (2) of our works to appear in **90th IFLA WLIC** in Busan, South Korea; one (1) in a panel session and one (1) in an open session.
@@ -160,7 +161,3 @@ My research focuses on the design and evaluation of AI-enabled information syste
 - Association for Information Science and Technology (ASIS&T)
 - Association for Library and Information Science Education (ALISE)
 - American Psychological Association (APA)
-
-# 💬 Languages
-
-English · Malay · Mandarin

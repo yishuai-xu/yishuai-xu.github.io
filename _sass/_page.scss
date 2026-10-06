@@ -410,35 +410,3 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
-
-/* ==========================================================================
-   RECENT HIGHLIGHTS LOGOS
-   ========================================================================== */
-
-.page__content img.highlight-logo {
-  display: inline-block;
-  height: 20px !important;
-  width: auto !important;
-  max-width: 90px !important;
-  vertical-align: middle;
-  margin-left: 5px;
-  object-fit: contain;
-  box-shadow: none !important;
-}
-
-.page__content img.highlight-logo-square {
-  display: inline-block;
-  height: 20px !important;
-  width: 20px !important;
-  max-width: 20px !important;
-  vertical-align: middle;
-  margin-left: 5px;
-  object-fit: contain;
-  box-shadow: none !important;
-}
-
-.page__content a:hover img.highlight-logo,
-.page__content a:hover img.highlight-logo-square {
-  opacity: 0.75;
-  box-shadow: none !important;
-}

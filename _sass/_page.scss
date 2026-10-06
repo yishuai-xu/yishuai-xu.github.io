@@ -415,24 +415,30 @@
    RECENT HIGHLIGHTS LOGOS
    ========================================================================== */
 
-.highlight-logo {
-  height: 18px;
-  width: auto;
-  max-width: 90px;
-  vertical-align: -3px;
-  margin-left: 4px;
+.page__content img.highlight-logo {
+  display: inline-block;
+  height: 20px !important;
+  width: auto !important;
+  max-width: 90px !important;
+  vertical-align: middle;
+  margin-left: 5px;
   object-fit: contain;
+  box-shadow: none !important;
 }
 
-.highlight-logo-square {
-  height: 20px;
-  width: auto;
-  vertical-align: -4px;
-  margin-left: 4px;
+.page__content img.highlight-logo-square {
+  display: inline-block;
+  height: 20px !important;
+  width: 20px !important;
+  max-width: 20px !important;
+  vertical-align: middle;
+  margin-left: 5px;
   object-fit: contain;
+  box-shadow: none !important;
 }
 
-.highlight-logo:hover,
-.highlight-logo-square:hover {
+.page__content a:hover img.highlight-logo,
+.page__content a:hover img.highlight-logo-square {
   opacity: 0.75;
+  box-shadow: none !important;
 }

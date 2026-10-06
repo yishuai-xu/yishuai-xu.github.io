@@ -23,17 +23,17 @@ My research focuses on the design and evaluation of AI-enabled information syste
 <span class="anchor" id="recent-highlights"></span>
 # ✨ Recent Highlights
 
-- *2026.12*: &nbsp; Two (2) of our works to appear in the **19th ICIDS** in Bangkok, Thailand. &nbsp;<a href="https://icids2026.ardin.online/" target="_blank"><img src="/images/springer-logo.png" alt="Springer" title="ICIDS 2026" style="height:20px !important; width:auto !important; max-width:90px !important; display:inline-block !important; vertical-align:middle !important;"></a>
+- *2026.12*: &nbsp; Two (2) of our works to appear in the **19th ICIDS** in Bangkok, Thailand. &nbsp;<a href="https://icids2026.ardin.online/" target="_blank"><img src="/images/springer-logo.png" alt="Springer" title="Springer LNCS" style="height:20px !important; width:auto !important; max-width:90px !important; display:inline-block !important; vertical-align:middle !important;"></a>
 
 - *2026.11*: &nbsp; One (1) of our works to appear in the **89th ASIS&T Annual Meeting** in Bangkok, Thailand. &nbsp;<a href="https://www.asist.org/am2026/am26/" target="_blank"><img src="/images/wiley-logo.png" alt="Wiley" title="ASIS&T Annual Meeting 2026" style="height:20px !important; width:auto !important; max-width:90px !important; display:inline-block !important; vertical-align:middle !important;"></a>
 
 - *2026.10*: &nbsp; One (1) of our works to appear in the **26th ACM/IEEE JCDL** in Texas, USA. &nbsp;<a href="https://2026.jcdl.org/" target="_blank"><img src="/images/acm-logo.png" alt="ACM" title="ACM/IEEE JCDL 2026" style="height:20px !important; width:auto !important; max-width:90px !important; display:inline-block !important; vertical-align:middle !important;"></a>
 
-- *2026.08*: &nbsp; Two (2) of our works appeared at the **90th IFLA WLIC** in Busan, South Korea; one (1) in a panel session and one (1) in an open session. &nbsp;<a href="https://2026.ifla.org/congress-programme/" target="_blank"><img src="/images/ifla-logo.png" alt="IFLA" title="IFLA WLIC 2026" style="height:20px !important; width:auto !important; max-width:90px !important; display:inline-block !important; vertical-align:middle !important;"></a>
+- *2026.08*: &nbsp; Two (2) of our works appeared at the **90th IFLA WLIC** in Busan, South Korea; one (1) in a panel and one (1) in an open session. &nbsp;<a href="https://2026.ifla.org/congress-programme/" target="_blank"><img src="/images/ifla-logo.png" alt="IFLA" title="IFLA WLIC 2026" style="height:18px !important; width:auto !important; max-width:70px !important; display:inline-block !important; vertical-align:middle !important;"></a>
 
 - *2026.03*: &nbsp; Two (2) of our works appeared at the **21st iConference** in Edinburgh, Scotland. &nbsp;<a href="https://publicera.kb.se/ir/issue/view/5744" target="_blank"><img src="/images/information-research-logo.png" alt="Information Research" title="Information Research" style="height:20px !important; width:20px !important; max-width:20px !important; display:inline-block !important; vertical-align:middle !important;"></a>
 
-- *2025.12*: &nbsp; Two (2) of our works appeared at the **27th ICADL** in Manila, Philippines; one (1) received the **Best Full Paper Award**. &nbsp;<a href="https://link.springer.com/book/10.1007/978-981-95-4861-3" target="_blank"><img src="/images/springer-logo.png" alt="Springer" title="Springer" style="height:20px !important; width:auto !important; max-width:90px !important; display:inline-block !important; vertical-align:middle !important;"></a>
+- *2025.12*: &nbsp; Two (2) of our works appeared at the **27th ICADL** in Manila, Philippines; one (1) received the **Best Full Paper Award**. &nbsp;<a href="https://link.springer.com/book/10.1007/978-981-95-4861-3" target="_blank"><img src="/images/springer-logo.png" alt="Springer" title="Springer LNCS" style="height:20px !important; width:auto !important; max-width:90px !important; display:inline-block !important; vertical-align:middle !important;"></a>
 
 <span class="anchor" id="publications"></span>
 <h1>📝 Publications <span style="font-size: 0.65em; font-weight: normal;">(Selected)</span></h1>

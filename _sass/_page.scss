@@ -410,3 +410,29 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* ==========================================================================
+   RECENT HIGHLIGHTS LOGOS
+   ========================================================================== */
+
+.highlight-logo {
+  height: 18px;
+  width: auto;
+  max-width: 90px;
+  vertical-align: -3px;
+  margin-left: 4px;
+  object-fit: contain;
+}
+
+.highlight-logo-square {
+  height: 20px;
+  width: auto;
+  vertical-align: -4px;
+  margin-left: 4px;
+  object-fit: contain;
+}
+
+.highlight-logo:hover,
+.highlight-logo-square:hover {
+  opacity: 0.75;
+}

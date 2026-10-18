@@ -115,7 +115,7 @@ My research focuses on the design and evaluation of AI-enabled information syste
 <span class="anchor" id="honors"></span>
 # 🎖 Honors and Awards
 
-- *2026.10*: &nbsp; **Best Content Award**, ICVIAS, Surabaya, Indonesia.
+- *2026.10*: &nbsp; **Best Content Award**, ICVIAS 2026, Surabaya, Indonesia.
 - *2025.12*: &nbsp; **Best Full Paper Award**, ICADL 2025, Manila, Philippines.
 
 <span class="anchor" id="education"></span>

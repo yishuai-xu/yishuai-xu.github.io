@@ -79,6 +79,8 @@ My research focuses on the design and evaluation of AI-enabled information syste
 
 - Xu, Y.-S., Wang, G., Mahadi, S. F. A., & Mohd Khalid, Y. I. A. (2026). Towards AI-assisted and immersive access to Southeast Asia’s diverse cultural heritage in art library contexts. *90th IFLA World Library and Information Congress*, Busan, South Korea.
 
+- Xu, Y.-S., Mahadi, S. F. A., & Mohd Khalid, Y. I. A. (2026). Hidden in Plain Sight? Context-Aware Detection of Implicit Cyberviolence in Online Discussions. *8th International Conference on Vocational Innovation & Applied Sciences (ICVIAS) 2026*, Surabaya, Indonesia.
+
 - Xu, Y.-S., Mohd Khalid, Y. I. A., & Kassim, M. S. S. (2026). Automated book genre categorization using lightweight machine learning: Moving toward practical solutions for libraries. *International Conference on Asia-Pacific Digital Libraries (ICADL 2025)*.
 
 - Xu, Y.-S., Mohd Khalid, Y. I. A., & Kassim, M. S. S. (2026). Automatic subject indexing: How has it evolved and where is AI taking it? *International Conference on Asia-Pacific Digital Libraries (ICADL 2025)*.
@@ -113,6 +115,7 @@ My research focuses on the design and evaluation of AI-enabled information syste
 <span class="anchor" id="honors"></span>
 # 🎖 Honors and Awards
 
+- *2026.10*: &nbsp; **Best Content Award**, ICVIAS, Surabaya, Indonesia.
 - *2025.12*: &nbsp; **Best Full Paper Award**, ICADL 2025, Manila, Philippines.
 
 <span class="anchor" id="education"></span>
@@ -125,6 +128,7 @@ My research focuses on the design and evaluation of AI-enabled information syste
 <span class="anchor" id="teaching"></span>
 # 👨‍🏫 Teaching
 
+- *2026–2027*: &nbsp; **Data Preservation and Metadata**, Universiti Malaya (UM).
 - *2025–2026*: &nbsp; **Data Preservation and Metadata**, Universiti Malaya (UM).
 - *2025–2026*: &nbsp; **Data Visualization**, Universiti Malaya (UM).
 - *2026*: &nbsp; Workshop on **Data Analytics and Data Visualization for Academic Librarians**, Universiti Sains Malaysia (USM).

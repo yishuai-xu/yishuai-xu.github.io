@@ -167,7 +167,7 @@ My research focuses on the design and evaluation of AI-enabled information syste
 
 # 🌐 Professional Memberships
 
+- Association for Computing Machinery (ACM)
 - Institute of Electrical and Electronics Engineers (IEEE)
 - Association for Information Science and Technology (ASIS&T)
 - Association for Library and Information Science Education (ALISE)
-- American Psychological Association (APA)
